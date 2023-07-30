@@ -12,10 +12,6 @@ O Yggdrazil Browser é um navegador da web feito por diversão, com funcionalida
 - 🌈 Temas e extensões personalizáveis.
 - 🌟 E muito mais!
 
-## Capturas de tela 📸
-
-> Adicione algumas capturas de tela interessantes do navegador aqui.
-
 ## Instalação e Uso 📦
 
 1. Clone este repositório em seu sistema local.
